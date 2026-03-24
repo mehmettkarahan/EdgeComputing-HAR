@@ -1,7 +1,7 @@
 # Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX) 
-*(Note: Update this DOI badge once you generate it via Zenodo)*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19207705.svg)](https://doi.org/10.5281/zenodo.19207705) 
+
 
 ##  Overview
 This repository contains the official open-source code, scripts, and evaluation metrics for the manuscript titled **"Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices,"** submitted to *The Visual Computer* journal. 
