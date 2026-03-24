@@ -1,0 +1,12 @@
+
+Model: MobileNetV3Small
+------------------------------------
+Accuracy: 0.6270
+Precision: 0.6260
+Recall: 0.6270
+F1 Score: 0.6246
+
+FPS: 60.28
+Avg Inference: 16.59 ms
+Training Time: 11890.58 s
+Max Temp: 75.45 C

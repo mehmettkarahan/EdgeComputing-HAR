@@ -1,0 +1,35 @@
+
+Model: NASNetMobile
+------------------------------------
+Accuracy: 0.6444
+Precision: 0.6427
+Recall: 0.6444
+F1 Score: 0.6426
+
+FPS: 16.46
+Avg Inference: 60.74 ms
+Training Time: 39579.01 s
+Max Temp: 76.00 C
+
+
+                    precision    recall  f1-score   support
+
+           calling       0.47      0.51      0.49       168
+          clapping       0.63      0.56      0.59       168
+           cycling       0.95      0.97      0.96       168
+           dancing       0.71      0.69      0.70       168
+          drinking       0.65      0.66      0.65       168
+            eating       0.75      0.87      0.81       168
+          fighting       0.70      0.71      0.70       168
+           hugging       0.57      0.60      0.58       168
+          laughing       0.60      0.60      0.60       168
+listening_to_music       0.40      0.38      0.39       168
+           running       0.74      0.82      0.78       168
+           sitting       0.51      0.48      0.50       168
+          sleeping       0.76      0.68      0.72       168
+           texting       0.54      0.51      0.52       168
+      using_laptop       0.68      0.63      0.65       168
+
+          accuracy                           0.64      2520
+         macro avg       0.64      0.64      0.64      2520
+      weighted avg       0.64      0.64      0.64      2520

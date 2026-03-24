@@ -1,0 +1,12 @@
+
+Model: EfficientNetV2B0
+------------------------------------
+Accuracy: 0.7238
+Precision: 0.7271
+Recall: 0.7238
+F1 Score: 0.7235
+
+FPS: 21.16
+Avg Inference: 47.26 ms
+Training Time: 31256.86 s
+Max Temp: 77.10 C

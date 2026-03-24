@@ -1,0 +1,12 @@
+
+Model: MobileNetV2
+------------------------------------
+Accuracy: 0.6663
+Precision: 0.6720
+Recall: 0.6663
+F1 Score: 0.6669
+
+FPS: 24.61
+Avg Inference: 40.64 ms
+Training Time: 27254.51 s
+Max Temp: 76.55 C
