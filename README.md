@@ -4,7 +4,7 @@
 
 
 ##  Overview
-This repository contains the official open-source code, scripts, and evaluation metrics for the manuscript titled **"Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices,"** submitted to *The Visual Computer* journal. 
+This repository contains the official open-source code, scripts, and evaluation metrics for the manuscript titled **Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices.**
 
 Our research focuses on evaluating and optimizing lightweight Deep Learning (DL) architectures (EfficientNetB0, EfficientNetV2B0, MobileNetV2, MobileNetV3, and NASNetMobile) for Human Action Recognition (HAR) tasks deployed on resource-constrained edge computing environments, specifically the **Raspberry Pi 5**. The code includes built-in real-time system monitoring (CPU, RAM, and Temperature) to analyze the thermal and computational efficiency of these models.
 
@@ -39,7 +39,7 @@ To run a specific model, execute the corresponding script via terminal:
 `python scripts/train_efficientnet_v2.py`
 
 ## Citation Policy
-This open-source code is directly related to the manuscript "Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices" currently submitted to **The Visual Computer**. 
+This open-source code is directly related to the manuscript "Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices." 
 
 If you use this code, dataset configuration, or system monitoring approach in your research, we kindly request that you cite our paper once it is published.
 
