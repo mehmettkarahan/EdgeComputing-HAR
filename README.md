@@ -1,6 +1,6 @@
 # Optimizing Lightweight Architectures for Efficient Human Action Recognition on Edge Devices
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19207705.svg)](https://doi.org/10.5281/zenodo.19207705) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19210675.svg)](https://doi.org/10.5281/zenodo.19210675) 
 
 
 ##  Overview
